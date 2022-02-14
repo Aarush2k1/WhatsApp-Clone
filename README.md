@@ -1,10 +1,9 @@
-# Chatapp Firebase
+# Whatsapp Clone with Firebase
 
 ## Goal
-
 The objective is to learn how to incorporate Firebase into our Flutter apps. I used Firebase Cloud Firestore as well as the Firebase authentication package to equip our app with a cloud-based NoSQL database and secure authentication methods. 
 
-## Demo
+## UI screenshots
 <div style="display: flex">
 <img src="https://user-images.githubusercontent.com/56411093/132977523-f0354b27-cc13-4079-8ea1-c4da82c48362.png" width="200" height="400" />
 <img src="https://user-images.githubusercontent.com/56411093/132977517-d687e2a3-4604-4850-9239-acae1cd27806.png" width=200 height=400 />
@@ -13,7 +12,6 @@ The objective is to learn how to incorporate Firebase into our Flutter apps. I u
 </div>
 
 ## Things Used
-
 - How to incorporate Firebase into your Flutter projects.
 - How to use Firebase authentication to register and sign in users.
 - How to create beautiful animations using the Flutter Hero widget.
